@@ -1,4 +1,4 @@
-### Halo Guys! 👋
+# Halo Guys! 👋
 
 Perkenalkan nama saya **Rizki Surya Nugroho**.<br>
 
@@ -6,7 +6,13 @@ Saya seorang **Mahasiswa** di **Universitas Islam Negeri Sunan Kalijaga**.<br>
 
 Saya mengambil program studi **Informatika** dan masuk kuliha pada tahun **2022**.<br>
 
-
+### Github Statistics
+<p align="left">
+<a href="https://github.com/NumiKun">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **NumiKun/numikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
