@@ -1,4 +1,11 @@
-### Hi there 👋
+### Halo Guys! 👋
+
+Perkenalkan nama saya **Rizki Surya Nugroho**.<br>
+
+Saya seorang **Mahasiswa** di **Universitas Islam Negeri Sunan Kalijaga**.<br>
+
+Saya mengambil program studi **Informatika** dan masuk kuliha pada tahun **2022**.<br>
+
 
 <!--
 **NumiKun/numikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
