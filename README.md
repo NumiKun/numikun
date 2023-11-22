@@ -4,7 +4,7 @@ Perkenalkan nama saya **Rizki Surya Nugroho**.<br>
 
 Saya seorang **Mahasiswa** di **Universitas Islam Negeri Sunan Kalijaga**.<br>
 
-Saya mengambil program studi **Informatika** dan masuk kuliha pada tahun **2022**.<br>
+Saya mengambil program studi **Informatika** dan masuk kuliah pada tahun **2022**.<br>
 
 ### Github Statistics
 <p align="left">
