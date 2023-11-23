@@ -9,8 +9,8 @@ Saya mengambil program studi **Informatika** dan masuk kuliah pada tahun **2022*
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/NumiKun">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=numikun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=numikun&layout=compact&theme=algolia"/>
 </a>
 </p>
 <!--
