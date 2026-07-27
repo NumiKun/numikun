@@ -2,7 +2,7 @@
 <h3 align="center">I'm Rizki Surya Nugroho — Informatics student who loves turning data into something useful</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bachelor+Degree's+of+Informatics;Machine+Learning+Enthusiast;IT+Support+%26+Technical+Trainer;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bachelor's+Degree+of+Informatics;Machine+Learning+Enthusiast;IT+Support+%26+Technical+Trainer;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
