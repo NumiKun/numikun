@@ -48,7 +48,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=numikun&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=numikun&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="left">
@@ -60,7 +60,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=numikun&theme=algolia&no-frame=true&row=1&column=7" alt="trophy"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=numikun&theme=algolia&no-frame=true&row=1&column=7" alt="trophy"/>
 </p>
 
 ---
@@ -70,4 +70,3 @@
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — feel free to connect!</i></p>
-
